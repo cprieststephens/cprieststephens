@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on Codewell challenges to build websites
 - 🌱 I’m currently learning HTML and CSS
 - 🤔 I’m looking for feedback on my projects
-- 📫 How to reach me: www.linkedin.com/in/camilla-priest-stephens
+- 📫 How to reach me: www.linkedin.com/in/camilla-priest-stephens and https://twitter.com/CamillaPriest
 - 😄 Pronouns: She/her
 
