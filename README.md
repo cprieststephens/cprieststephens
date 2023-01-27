@@ -1,7 +1,9 @@
 ### Hi there, I'm Camilla 👋
 
-🌱 I'm learning HTML, CSS and JavaScript<br>
-🚀 I recently completed the Code First Girls JavaScript MOOC Sprint and Introduction to Web Development course<br>
+🚀 I am a Front End Developer in training<br>
+💻 I currently attend Command Shift bootamp<br>
+🧰 I am learning HTML, CSS and JavaScript<br>
+✍🏻 I post on LinkedIn about what I'm learning: https://www.linkedin.com/in/camilla-priest-stephens<br>
  
 
 
