@@ -1,8 +1,8 @@
-### Hi there, I'm Camilla 👋
+### Hi there! I'm Camilla 👋
 
-💻 I am a Front End Developer in training<br>
+💻 I'm a Software Developer in training<br>
 🚀 I attend Command Shift bootcamp<br>
-🧰 I am currently learning JavaScript and Jest<br>
+🧰 I'm currently learning SQL, Docker and Express<br>
 ✍🏻 I post about what I learn at https://twitter.com/Camilla_Codes and https://www.linkedin.com/in/camilla-priest-stephens<br>                                                                                            
 
  
